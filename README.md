@@ -7,7 +7,7 @@
 
 其中项目中用到的几个数据集没有上传，可以在下面链接下载：
 1.http://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#
-2.https://download.pytorch.org/tutorial/hymenoptera_data.ziphttps://download.pytorch.org/tutorial/faces.zi
+2.https://download.pytorch.org/tutorial/hymenoptera_data.zip
 3.https://download.pytorch.org/tutorial/faces.zip
 4.http://yann.lecun.com/exdb/mnist/
 
